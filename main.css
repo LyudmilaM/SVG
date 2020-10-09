@@ -1,3 +1,7 @@
 header{
-	color: green;
+	color: red;
 }
+a:hover{
+	color: pink;
+}
+
