@@ -1,6 +1,9 @@
 header{
 	color: green;
 }
-a:hover{
+a{
 	color: darkgreen;
+}
+a:hover{
+	color: lightgreen;
 }
