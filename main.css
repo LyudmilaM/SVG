@@ -1,7 +1,10 @@
 header{
-	color: yellow;
+	color: green;
+}
+a{
+	color: darkgreen;
 }
 a:hover{
-	color: orange;
+	color: lightgreen;
 }
 
